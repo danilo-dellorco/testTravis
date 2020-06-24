@@ -3,7 +3,7 @@ jdk:
   - openjdk8
 addons:
   sonarcloud:
-    organization: "danilo-dellorco_testtravis"
+    organization: "danilo-dellorco"
     token: "4020a74e88680ee5d9999f1e5cac5115b91dd740"
 script: 
   - ant build
